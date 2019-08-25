@@ -12,10 +12,6 @@ My development environment can be list as follows:
 
 You can choose other development environment, I think it not a problem.
 
-# How to use 
-
-Fork the repositorie from my github or download the repositorie, and then use your tool to compile the C code.
-
 --------------------------------------------------------------------------------
 
 # 数据结构与算法
@@ -28,8 +24,3 @@ Fork the repositorie from my github or download the repositorie, and then use yo
 #### 操作系统： windows 7 （64bit）
 #### 开发工具：Visual C++ 6.0
 你可以选择其他的开发环境，因为代码中大多的每个.c文件都是可以单独运行起来。
-
-# 如何使用
-从我的github上fork我的该仓库或者下载该仓库到你的本地，然后用你的写C工具编译C语言代码即可。
-
-
